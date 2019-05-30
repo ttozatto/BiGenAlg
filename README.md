@@ -1,0 +1,2 @@
+# BiGenAlg
+Binary Genetic Algorithm
